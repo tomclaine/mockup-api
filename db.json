@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "quan bo",
+            "price": "500000"
+        },
+        {
+            "id": 2,
+            "title": "quan kaki",
+            "price": "600000"
+        },
+        {
+            "id": 3,
+            "title": "quan ni",
+            "price": "300000"
+        },
+        {
+            "id": 4,
+            "title": "ao hoodie",
+            "price": "1000000"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "title": "Good"
+        },
+        {
+            "id": 2,
+            "title": "Normal"
+        },
+        {
+            "id": 3,
+            "title": "Bad"
+        }
+    ]
+    
+}
